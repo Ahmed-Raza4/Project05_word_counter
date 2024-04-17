@@ -7,10 +7,10 @@ Welcome to the Word Counter Game! This is a TypeScript-based word counter utilit
 To use the Word Counter Game, you need to have Node.js installed on your system. Then, you can install it via npm:
 
 
-npm install ahmed_word_counter
+npm install ahmed04_word_counter
 Once installed, you can run the game from your terminal with the following command:
 
-npx ahmed_word_counter
+npx ahmed04_word_counter
 Follow the on-screen instructions to enter a sentence, and the game will display the total number of words in it.
 
 <h2>Contributing</h2>

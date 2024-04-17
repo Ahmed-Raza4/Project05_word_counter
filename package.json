@@ -1,5 +1,5 @@
 {
-  "name": "ahmed_word_counter",
+  "name": "ahmed04_word_counter",
   "version": "1.0.0",
   "description": "A Typescript based word counter game using inquirer to interact with user and chalk for a beautiful CL",
   "main": "index.js",
