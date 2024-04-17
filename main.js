@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import inquirer from "inquirer";
 import chalk from "chalk";
 console.log(chalk.yellow("****Welcome to Word Counter Application ****"));
@@ -25,7 +26,7 @@ await counter();
                 name: "question",
                 type: "list",
                 message: chalk.blueBright("What would you like to do?"),
-                choices: ["continue", "Exit"],
+                choices: ["Continue", "Exit"],
             },
         ]);
         if (ask.question === "Exit") {
